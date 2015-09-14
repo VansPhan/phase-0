@@ -1,5 +1,6 @@
 - How does tracking and adding changes make developers' lives easier?  
-..* There is a point where a developer might need to experiment in some way that would alter the code so much that it would be close to impossible to go back. Tracking and adding changes little by little gives a clear mapping of what has been done and ultimately making possible for the developer to backtrack almost to any point in time of the project's development.  
+
+There is a point where a developer might need to experiment in some way that would alter the code so much that it would be close to impossible to go back. Tracking and adding changes little by little gives a clear mapping of what has been done and ultimately making possible for the developer to backtrack almost to any point in time of the project's development.  
 - What is a commit?  
 
 Commit is like taking a snapshot of your entire project and saving it for later. You will be able to go back to this point afterwards and could see all the changes made at that time in detail.  
