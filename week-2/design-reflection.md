@@ -2,12 +2,12 @@
 
 1. What are the 6 Phases of Web Design?  
 The 6 phases of web designs are  
--Information Gathering
--Planning
--Design
--Development
--Testing and Delivery
--Maintenance  
+* Information Gathering
+* Planning
+* Design
+* Development
+* Testing and Delivery
+* Maintenance  
 
 2. What is your site's primary goal or purpose? What kind of content will your site feature?  
 My site will help me showcase my accomplishments and skills I have developed so far in my career.  
