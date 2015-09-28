@@ -1,0 +1,78 @@
+body {
+	background-color: #ffffff;
+	color: #000080;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	white-space: pre;
+}
+
+footer {
+	font-size: 12px;
+}
+
+ul {
+	-webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+img {
+	width: 70px;
+	height: 10px;
+}
+
+
+li {
+	font-size: 10px;
+	text-align: left;
+	list-style-type: circle;
+}
+
+a {
+	font-size: 15px;
+}
+
+a:link {
+	color: #800080;
+}
+
+a:visited {
+	color: #ff0000;
+}
+
+.letter {
+	font-size: 30px;
+}
+
+.address {
+	font-size: 13px;
+}
+
+.logo {
+	text-align: center;
+	white-space: pre;
+	font-size: 10px;
+}
+
+.contact {
+	font-size: 12px;
+}
+
+/*
+-What is important to know when linking an external file (like a stylesheet) to an HTML file?
+	The proper path is needed to correctly link the stylesheet to the file and the file cannot be above the level of where the current file that it is trying to link to resides. 
+-What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+	Dealing with only text made it pretty straightforward with proper research, but got tricky when wanting to split text into a table.
+-What CSS did you use to modify the element style (like size, color, etc.)
+	I used font-size for the size of the text and color for the text color.
+-Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+	I have added several classes to my html file. I wrapped the large letters in the header and gave it a class so I could individually edit its text size. 
+	I also made classes for the logo and contact part of the page to keep them organized and to edit them differently from the rest of the html.
+-When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+	My code would be following best practices because the berkshire code utilizes in line css which is not recommended.
+*/
