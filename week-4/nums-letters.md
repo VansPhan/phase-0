@@ -10,7 +10,7 @@ An integer is a number without any decimals and floats are numbers with decimals
 If you are dividing integers then there will be no remainders in the answers. Only float division will give you a more accurate answer with decimals.  
 
 
-hour_in_a_year  
+**hour_in_a_year**  
 ```
 def hours_in_year
 	# 1 year is equal to 365 days
